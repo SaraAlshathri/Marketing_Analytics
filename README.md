@@ -19,4 +19,3 @@ The Marketing Analytics Nanodegree from Udacity offers practical, skills-based t
 
 * Excel
 * Tableau
-* Power BI
